@@ -1,5 +1,26 @@
-## Hi there 👋
+## Welcome Home 👋
+*末⑨飞舞大二学生一枚*
 
+
+### - 🌱 正在学
+*《数据结构》*
+*《Java程序设计与应用开发》*
+Git  Vim
+
+
+### - 🔭 技术栈
+🤔 暂时没有拿得出手的
+
+
+### - 开发工具(如果厚着脸皮叫开发的话)
+![Static Badge](https://img.shields.io/badge/VS%20Code-blue)
+![Static Badge](https://img.shields.io/badge/%20%20Eclipse%20%20-orange)
+![Static Badge](https://img.shields.io/badge/Virtual%20Studio%20%20-purple)
+![Static Badge](https://img.shields.io/badge/Git%20%20-red)
+![Static Badge](https://img.shields.io/badge/Copilot%20!!!%20%20-red?style=flat-square)
+
+
+### - ⭐️ &nbsp;Github Star
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=995929122&show_icons=true&theme=tokyonight&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
