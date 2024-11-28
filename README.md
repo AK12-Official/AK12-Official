@@ -11,7 +11,7 @@
 
 ### - 🚀计划学
 *HTML三件套*  
-*CPP*
+*CPP*  
 *一门脚本语言*
 
 ### - 🔭 技术栈
@@ -25,7 +25,7 @@
 ### - 开发工具(如果厚着脸皮叫开发的话)
 ![Static Badge](https://img.shields.io/badge/VS%20Code-blue)
 ![Static Badge](https://img.shields.io/badge/%20%20Eclipse%20%20-orange)
-![Static Badge](https://img.shields.io/badge/Virtual%20Studio%20%20-purple)
+![Static Badge](https://img.shields.io/badge/Visual%20Studio%20%20-purple)
 ![Static Badge](https://img.shields.io/badge/Git%20%20-red)
 ![Static Badge](https://img.shields.io/badge/Copilot%20!!!%20%20-red?style=flat-square)
 
