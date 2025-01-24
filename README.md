@@ -1,25 +1,21 @@
 ## Welcome Home 👋
-*末⑨飞舞大二学生一枚*  **正在逼着自己跳出舒适圈（指摆烂）学技术（虽然截至目前什么都没学会）**  
+*末⑨飞舞大二学生一枚*  📫995929122@qq.com huan48738@gmail.com  
+**正在逼着自己跳出舒适圈（指摆烂）学技术（虽然截至目前什么都没学会）**  
 *计算机真是卷出天际啊（sad😭） 我真fvv啊😭*  
 
 ### - 🌱 正在学
+*简单的前端(能有个页面就行)*  
+*简单的算法(长长脑子先)（详见Problem Pool）*  
 *《数据结构》*  
-*《Java程序设计与应用开发》*  
-*Git&&Vim*  
-*Matlab*  
+*Git&&Vim*    
 *正在摸索着使用Linux系统*  
 
-### - 🚀计划学
-*HTML三件套*  
-*CPP*  
-*一门脚本语言*
+### - 🚀计划学  
+*Python*  
 
-### - 🔭 技术栈
-🤔 暂时没有拿得出手的    
-一点点C  
-一点点Java  
-一点点嵌入式(指会抄51)  
-
+### - 🔭 技术栈 
+在学了，敬请期待ಥ_ಥ  
+主要是越学感觉不会的越多，不敢在这里说会什么了T_T
 
 
 ### - 开发工具(如果厚着脸皮叫开发的话)
@@ -31,7 +27,7 @@
 
 
 ### - ⭐️ &nbsp;Github Star
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=995929122&show_icons=true&theme=tokyonight&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AK12-Official&show_icons=true&theme=tokyonight&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **995929122/995929122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
